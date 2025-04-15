@@ -1,0 +1,68 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "MacBook Pro 16\"",
+        "price": 2499,
+        "description": "Apple M2 Pro chip, 16GB RAM, 512GB SSD",
+        "image": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80",
+        "instock": 8
+      },
+      {
+        "id": 2,
+        "name": "iPhone 14 Pro",
+        "price": 999,
+        "description": "6.1\" Super Retina XDR display, A16 Bionic chip",
+        "image": "https://images.unsplash.com/photo-1664478546384-d57ffe74a78c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80",
+        "instock": 12
+      },
+      {
+        "id": 3,
+        "name": "Sony WH-1000XM5",
+        "price": 399,
+        "description": "Premium noise canceling wireless headphones",
+        "image": "https://images.unsplash.com/photo-1655720828012-222d6f566fea?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80",
+        "instock": 5
+      },
+      {
+        "id": 4,
+        "name": "Dell XPS 13",
+        "price": 1199,
+        "description": "13.4\" FHD+ InfinityEdge Touch Display, Intel i7",
+        "image": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80",
+        "instock": 7
+      },
+      {
+        "id": 5,
+        "name": "Samsung Galaxy Watch 5",
+        "price": 279,
+        "description": "Bluetooth Smartwatch with Body Composition analysis",
+        "image": "https://images.unsplash.com/photo-1664474611315-df1d7a02d03d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80",
+        "instock": 9
+      },
+      {
+        "id": 6,
+        "name": "Apple AirPods Pro",
+        "price": 249,
+        "description": "Active Noise Cancellation with Adaptive Transparency",
+        "image": "https://images.unsplash.com/photo-1606841837239-c5a1a4a07af7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80",
+        "instock": 15
+      },
+      {
+        "id": 7,
+        "name": "Logitech MX Master 3",
+        "price": 99,
+        "description": "Advanced wireless mouse for productivity",
+        "image": "https://images.unsplash.com/photo-1527814050087-3793815479db?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80",
+        "instock": 11
+      },
+      {
+        "id": 8,
+        "name": "iPad Pro 12.9\"",
+        "price": 1099,
+        "description": "M2 chip, Liquid Retina XDR display",
+        "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80",
+        "instock": 6
+      }
+    ]
+  }
